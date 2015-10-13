@@ -1,0 +1,28 @@
+h1{
+  font-family: 'Stint Ultra Expanded', 'serif';
+}
+body{
+  background-image: url("http://www.dailystoke.com/wp-content/uploads/2009/02/sonia2.jpg");
+  background-size: cover;
+  font-family: 'Pontano', 'serif';
+  color: yellow;
+}
+.images{
+  text-align: center;
+}
+.image {
+  position: relative;
+  width: 200px;
+  margin: 5px;
+  display: inline-block;
+  padding: 3em;
+
+}
+h3{
+  left: 0;
+  position:absolute;
+  text-align:center;
+  top: 100px;
+  width: 100%
+
+}
